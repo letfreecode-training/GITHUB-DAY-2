@@ -22,3 +22,8 @@
 4.  fork 與 clone
 
 5.  Issue 是什麼
+
+## 每天要做的事情
+
+- git fetch upstream
+- git merge upstream/master
