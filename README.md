@@ -18,5 +18,6 @@
 
 - PULL REQUEST(請求合併)
 
-4.  Issue 是什麼
-5.  fork 與 clone
+4.  fork 與 clone
+
+5.  Issue 是什麼
